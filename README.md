@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 14/12/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -37,6 +37,13 @@
 ### ●	When the first process is selected then it will open in the blank space in the left side of the screen.
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/32e1ad43-6ca7-4106-bb59-a2b65a9da73e)
+![image](https://github.com/user-attachments/assets/5733fbf0-582a-43e4-a9e5-5a61137436a3)
+![image](https://github.com/user-attachments/assets/6cfa8f4c-5150-4f54-8553-2c4da0216cab)
+![image](https://github.com/user-attachments/assets/3d7f5db7-2b25-435f-9368-5988509601b9)
+![image](https://github.com/user-attachments/assets/00feb5f0-97fc-4ff3-83cf-6b1ab3973c91)
+![image](https://github.com/user-attachments/assets/41ea042e-9bd1-4f45-b20c-f9b55a1693e9)
 
 ## OUTPUT:
 ![Screenshot 2024-12-14 083909](https://github.com/user-attachments/assets/48d6a277-87d1-42e5-a432-7f1a811db550)
